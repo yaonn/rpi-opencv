@@ -1,0 +1,8 @@
+certifi==2020.12.5
+mkl-fft==1.2.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+numpy @ file:///C:/ci/numpy_and_numpy_base_1603468620949/work
+opencv-python==4.5.1.48
+six @ file:///C:/ci/six_1605205426665/work
+wincertstore==0.2
