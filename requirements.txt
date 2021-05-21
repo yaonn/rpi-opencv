@@ -1,15 +1,16 @@
-astroid @ file:///C:/ci/astroid_1592481955828/work
 certifi==2020.12.5
-colorama @ file:///tmp/build/80754af9/colorama_1607707115595/work
-isort @ file:///tmp/build/80754af9/isort_1602603989581/work
-lazy-object-proxy @ file:///C:/b/work
-mccabe==0.6.1
-numpy==1.19.4
+chardet==4.0.0
+idna==2.10
+mkl-fft==1.2.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+numpy==1.19.2
 opencv-python==4.5.1.48
-pylint @ file:///C:/ci/pylint_1598605958085/work
+pyjwt==2.0.0
+python-dotenv==0.15.0
 pyzbar==0.1.8
-six @ file:///C:/ci/six_1605205426665/work
-toml @ file:///tmp/build/80754af9/toml_1592853716807/work
-typed-ast==1.4.1
+requests==2.25.1
+six==1.15.0
+urllib3==1.26.2
 wincertstore==0.2
-wrapt==1.11.2
+py2neo==2021.1.1
